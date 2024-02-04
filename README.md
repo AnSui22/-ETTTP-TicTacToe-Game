@@ -135,9 +135,9 @@
     
     메시지의 특수문자를 공백으로 대체하고 파싱하였다.
 
-    파싱한 정보를 리스트에 저장한 후 통신 프로토콜과 IP주소를 추출하여 versions와 ip_line에 각각 저장한다.
+    파싱한 정보를 리스트에 저장한 후 통신 프로토콜과 IP주소를 추출하여 versions와 ip_line에 저장한다.
 
-    이 프로토콜이 ETTTP형식이 맞는 지, ip_line이 변수로 받은 recv_ip와 같은 지 확인 후 True/False를 반환한다.
+    프로토콜이 ETTTP형식이 맞는 지, ip_line이 변수로 받은 recv_ip와 같은 지 확인 후 True/False를 반환한다.
 
 
     
