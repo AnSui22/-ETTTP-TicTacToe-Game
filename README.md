@@ -1,9 +1,9 @@
-## 23-1 Ewha Womans University Information and Communication Engineering 
+## ETTTP TicTacToe Game 프로젝트
 
-### ETTTP-TicTacToe-Game
-##### skeleton 코드는 이화여자대학교 이형준 교수님의 정보통신공학 과제에서 가져온 것이고, 
+##### 23-1 Ewha Womans University 
 
-##### 나머지 코드는 자체적으로 작성한 것입니다. 
+##### 이형준 교수님 - 정보통신공학
+
 ---
 ### 🖥코드 설명
 **1. Server**
